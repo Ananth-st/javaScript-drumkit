@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    background-color: #283469;
+}
+h1{
+    font-size: 5rem;
+    color: #dbedf3;
+    font-family: "arvo",cursive;
+    text-shadow: 2px 6px #da0463;
+}
+.keys{
+    margin: 10% auto;
+}
+
+.drum{
+    outline: none;
+    border: 10px solid #404b69;
+    font-size: 5rem;
+    font-family: "arvo",cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #da0463;
+    text-shadow: 3px 0 #dbedf3;
+    border-radius: 16px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    border-color: wheat;
+    background-position: center;
+    background-size: cover;
+}
+.clicked{
+    box-shadow: 0 3px 4px 0 #dbedf3;
+   
+    
+}
+.w{
+background-image: url("imgs/download\ \(1\).jpg");
+
+}
+.a{
+    background-image: url("imgs/download\ \(2\).jpg")
+
+}
+.s{
+    background-image: url("imgs/download\ \(3\).jpg")
+}
+.d{
+    background-image: url("imgs/download\ \(4\).jpg")
+}
+.j{
+    background-image: url("imgs/download\ \(5\).jpg")
+}
+.k{
+    background-image: url("imgs/Tom-tom_12x8.jpg")
+}
+.l{
+    background-image: url("imgs/download.jpg")
+}
